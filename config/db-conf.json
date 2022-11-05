@@ -1,6 +1,6 @@
 {
 	"host" : "4.246.198.184",
-	"port" : 5432,
+	"port" : 5431,
 	"user" : "g1_xx",
 	"password" : "unah123",
 	"database" : "g1_xx"
